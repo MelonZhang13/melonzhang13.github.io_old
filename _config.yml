@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hi! I am Ruisheng Zhang."
+title                    : "Ruisheng Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Melon Zhang.jpg"
+  avatar           : "My Photo Rect.png"
   name             : "Ruisheng Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Master @Southeast University"

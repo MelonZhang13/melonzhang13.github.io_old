@@ -1,19 +1,37 @@
 ---
 permalink: /
-title: "Home"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Home2
-======
-大家好，我是张瑞升！这是一个未完成的个人网站，我正在努力把它搭建起来
+
+# About Me
+
+Greetings! My name is Ruisheng Zhang, currently finishing my second year of a master program in the [School of Mechanical Engineering](https://me.seu.edu.cn/main.htm) at [Southeast University](https://www.seu.edu.cn/). **<font color=red>I am actively seeking a PhD position for 2025 Fall.</font>** Currently, I am a member of the Advanced Human-Computer Interaction Lab in the Industrial Design Department, under the supervision of [Associate Professor Xiaozhou Zhou](https://me.seu.edu.cn/zxz1/list.htm). I also received my Bachelor's degree in the School of Mechanical Engineering at Southeast University.
+
+I am really passionate about developing advanced algorithms and methods to solve real-world problems, because it is incredibly rewarding to utilize noval technology to improve and enhance humans' lives. My research interests focus on **HCI research about pervasive computing and VR/AR**, especially in **developing interactive devices for XR environments**, **designing multi-modal user interfaces** and **enhancing HCI user experiences with data-driven deep learning methods**. Additionally, I am also interested in **improving text input for XR scenarios**.
+
+
+
+
+
+
+大家好，我是张瑞升！这是一个未完成的个人网站，我正在努力把它搭建起来!
+
+<video width="640" height="360" controls>
+  <source src="test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+我来插入一张网页视频
+<iframe width="640" height="360" src="http://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen> </iframe>
 
 
 冰镇大象的方法
-======
+------
 1. 打开冰箱
 1. 把大象放到冰箱里
 1. 关掉冰箱
