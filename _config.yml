@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "My Photo Rect_Small.png"
+  avatar           : "profile.png"
   name             : "Ruisheng Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Master @Southeast University"
