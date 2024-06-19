@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+<!-- <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>  -->
 
-[Click to review my CV here](http://melonzhang13.github.io/files/cv.pdf) (Last update: 06/2024)
+[Click to review my CV here]({{ site.baseurl }}/files/cv.pdf) (Last update: 06/2024)
 
 <!-- 
 Education

@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+> To be honest, this is a very hastily put together personal website, and it's not perfect yet. I would be grateful if you could take the time to get to know me better.
 
 # About Me
 
@@ -20,7 +21,15 @@ I am really passionate about developing advanced algorithms and methods to solve
 
 Additionally, I am also interested in **improving text input for XR scenarios**.
 
-## Personal Statement
+## Personal Skills
+Currently, I possess proficient skills in **developing VR and AR applications using the Unity engine and C# programming language**. Additionally, I am adept at **developing neural networks using the Pytorch deep learning framework and Python**. Moreover, I have knowledge of fundamental psychological experimental design methods and data analysis techniques using SPSS, often utilizing the Matplotlib package for visualizing results. Furthermore, as a master's student in design, I have a grasp of basic collaborative design processes using Figma. The following outlines my specific skills:
+- **Programming:** C#, Python, C++, Lua
+- **Languages:** Chinese, English
+- **Software:** Unity, Figma, Blender, Soildworks, SPSS, E-Prime
+- **Tools:** Machine Learning & Data Process (PyTorch, Scikit-learn, Pandas, Matplotlib, Numpy), XR Development (Oculus Intergration, SteamVR, MRTK)
+
+
+
 
 
 
