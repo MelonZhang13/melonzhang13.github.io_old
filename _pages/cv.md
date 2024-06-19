@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Click to review my CV here](http://melonzhang13.github.io/files/cv.pdf) (Last update: 06/2024)
+
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -61,4 +64,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+
+-->
