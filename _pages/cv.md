@@ -12,7 +12,7 @@ redirect_from:
 
 <!-- [Click to review my CV here]({{ site.baseurl }}/files/cv.pdf) (Last update: 06/2024) -->
 
-[Click to review my CV here](../files/cv.pdf) (Last update: 06/2024)
+[Click to review my CV here](../files/CV.pdf) (Last update: 06/2024)
 
 
 
