@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-> To be honest, this is a very hastily put together personal website, and it's not perfect yet. I would be grateful if you could take the time to get to know me better.
+<!-- > To be honest, this is a very hastily put together personal website, and it's not perfect yet. I would be grateful if you could take the time to get to know me better. -->
+
+> "If one does not engage in what they love, how can happiness be found?"<br>——《A One And A Two》(2000)
 
 # About Me
 
-Greetings! My name is Ruisheng Zhang, currently finishing my second year as a master in _Design_ from the [School of Mechanical Engineering](https://me.seu.edu.cn/main.htm) at [Southeast University](https://www.seu.edu.cn/). **<font color=red>I am actively seeking a PhD position or an industry job opportunity for 2025 Fall.</font>** Currently, I am a member of the Advanced Human-Computer Interaction Lab in the Industrial Design Department, under the supervision of [Associate Professor Xiaozhou Zhou](https://me.seu.edu.cn/zxz1/list.htm). From 2018 to 2022, I pursued my Bachelor's degree in _Mechanical Engineering_ from the School of Mechanical Engineering at Southeast University.
+Greetings! My name is Ruisheng Zhang (张瑞升), currently finishing my second year as a master in _Design_ from the [School of Mechanical Engineering](https://me.seu.edu.cn/main.htm) at [Southeast University](https://www.seu.edu.cn/). **<font color=red>I am actively seeking a PhD position or an industry job opportunity for 2025 Fall.</font>** Currently, I am a member of the Advanced Human-Computer Interaction Lab in the Industrial Design Department, under the supervision of [Associate Professor Xiaozhou Zhou](https://me.seu.edu.cn/zxz1/list.htm). From 2018 to 2022, I pursued my Bachelor's degree in _Mechanical Engineering_ from the School of Mechanical Engineering at Southeast University.
 
 ## Research Interests
 I am really passionate about developing advanced algorithms and methods to solve real-world problems, because it is incredibly rewarding to utilize noval technology to improve and enhance humans' lives. My research interests focus on **HCI research about pervasive computing and VR/AR**, especially in:
