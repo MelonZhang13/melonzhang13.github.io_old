@@ -12,9 +12,9 @@ redirect_from:
 
 <!-- [Click to review my CV here]({{ site.baseurl }}/files/cv.pdf) (Last update: 06/2024) -->
 
-[Click to review my CV here](../files/CV.pdf) (Last update: 08/2024)
+[Click to review my CV here](../files/CV.pdf) (Last update: 09/2024)
 
-[Click to review my Resume here](../files/Resume.pdf) (Last update: 09/2024)
+<!-- [Click to review my Resume here](../files/Resume.pdf) (Last update: 09/2024) -->
 
 <!-- 
 Education
