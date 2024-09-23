@@ -27,7 +27,7 @@ Additionally, I am also interested in **improving text input for XR scenarios**.
 Currently, I possess proficient skills in **developing VR and AR applications using the Unity engine and C# programming language**. Additionally, I am adept at **developing neural networks using the Pytorch deep learning framework and Python**. Moreover, I have knowledge of fundamental psychological experimental design methods, data analysis techniques such as SPSS, visualization techniques such as Matplotlib. Furthermore, as a master in design, I have a grasp of basic collaborative design processes with Figma. The following outlines my specific skills:
 - **Programming:** C#, Python, C++, Lua
 - **Languages:** Chinese, English
-- **Software:** Unity, Figma, Blender, Soildworks, SPSS, E-Prime
+- **Software:** Unity, Figma, Blender, Soildworks, SPSS, E-Prime, OpenCV, OpenGL
 - **Tools:** Machine Learning & Data Process (PyTorch, Scikit-learn, Pandas, Matplotlib, Numpy), XR Development (Oculus Intergration, SteamVR, MRTK)
 
 

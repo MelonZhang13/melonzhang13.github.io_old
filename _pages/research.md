@@ -9,6 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+h2 {
+    margin-bottom: 0.5em; /* 调整为你认为合适的值 */
+}
+
+p {
+    margin-bottom: 0.5em; /* 调整为你认为合适的值 */
+}
+
+blockquote {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+ul {
+    margin-top: 0em;
+    margin-bottom: 0.5em; /* 调整为你认为合适的值 */
+}
+
+li {
+    margin-bottom: 0.05em; /* 调整为你认为合适的值 */
+    line-height: 1.25; /* 调整行高来影响行间距 */
+}
+</style>
+
 ## <font color=RoyalBlue>Research 1: Desktop Gesture Interaction System in Virtual Reality</font>
 >**Paper :** **Ruisheng Zhang** and Xiaozhou Zhou*. BeyondDeskVR: An Extended Virtual Hand Interaction System in Virtual Reality. _Behaviour & Information Technology_, Major Revision. 
 
