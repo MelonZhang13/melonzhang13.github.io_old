@@ -15,6 +15,7 @@ h2 {
 }
 
 p {
+    margin-top: 0em;
     margin-bottom: 0.5em; /* 调整为你认为合适的值 */
 }
 

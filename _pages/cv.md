@@ -8,6 +8,13 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<style>
+a {
+  color: RoyalBlue; /* 将所有链接的颜色设置为 RoyalBlue */
+}
+</style>
+
 <!-- <embed src="{{ site.baseurl }}/files/cv.pdf" width="600" height="700" type='application/pdf'>  -->
 
 <!-- [Click to review my CV here]({{ site.baseurl }}/files/cv.pdf) (Last update: 06/2024) -->
