@@ -151,9 +151,9 @@ The demonstration video can be accessed at : [<a href="https://drive.google.com/
 >**Project Time :** 2022.08-2023.08.
 
 My main works on this project are as follows:
-- Utilize the Unity3D engine to develop multi-modal interaction functions
+- Utilize the Unity3D engine to develop multi-modal interaction functions.
 - Achieve gesture interaction, voice interaction,touch interaction, eye-tracking/eye-control and vehicle control.
-- Achieve seamless communication between Unity and vehicle simulation software by TCP protocol
+- Achieve seamless communication between Unity and vehicle simulation software by TCP protocol.
 - Achieve data-driven dynamic displays for interface information.
 
 <!-- <div style="text-align:center;">
