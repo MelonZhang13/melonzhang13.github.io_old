@@ -71,3 +71,19 @@ Currently, I possess proficient skills in **developing VR and AR applications us
 - **Sensor:** Leap Motion (Hand Gesture), Tobii (Eye Tracker), Kinect360 (Motion Tracker)
 - **Tools:** Machine Learning & Data Process (PyTorch, Scikit-learn, Pandas, Matplotlib, Numpy), XR Development (Oculus Intergration, SteamVR, MRTK)
 
+## Introduction Slides
+<style>
+iframe {
+    margin: 0;
+    padding: 0;
+    display: block;
+    font-family: inherit;
+    text-align: inherit;
+    width: 100%;
+}
+</style>
+
+<iframe src="https://docs.google.com/presentation/d/1VXtLaVV62rZFBUXU6rGIXHRfLaXIT0ZQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="540" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
