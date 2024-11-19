@@ -16,7 +16,7 @@ p {
 </style>
 
 ## 2024 Year
-[2024-11-19] [HoloLens Development Tutoria based on Unity3D and MRTK3](https://docs.google.com/document/d/1EufCl7JMoUnQRbj9GY8CopBDM12l-Dq-xQmAKHs6j1E/edit?usp=sharing)
+[2024-11-19] [HoloLens Development Tutorial based on Unity3D and MRTK3](https://docs.google.com/document/d/1EufCl7JMoUnQRbj9GY8CopBDM12l-Dq-xQmAKHs6j1E/edit?usp=sharing)
 
 [2024-03-18] [Tobii Pro SDK 开发教程 (Tobii Pro SDK Development Tutorial)](https://docs.google.com/presentation/d/1Wr5w-5GRo-_frGUTH2YHprniDYChZOYp/edit?usp=sharing&ouid=100297279513463186179&rtpof=true&sd=true)
 
