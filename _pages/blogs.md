@@ -16,6 +16,8 @@ p {
 </style>
 
 ## 2024 Year
+[2024-11-19] [HoloLens Development Tutoria based on Unity3D and MRTK3](https://docs.google.com/document/d/1EufCl7JMoUnQRbj9GY8CopBDM12l-Dq-xQmAKHs6j1E/edit?usp=sharing)
+
 [2024-03-18] [Tobii Pro SDK 开发教程 (Tobii Pro SDK Development Tutorial)](https://docs.google.com/presentation/d/1Wr5w-5GRo-_frGUTH2YHprniDYChZOYp/edit?usp=sharing&ouid=100297279513463186179&rtpof=true&sd=true)
 
 <!-- [2024-03-01] [Research of Electronic Flight Instrument System(EFIS))](../files/2024-03-01.pdf) -->
@@ -56,7 +58,11 @@ p {
 
 
 ## Book Share
-[2024-08-30] [动手学习深度学习](https://zh-v2.d2l.ai/d2l-zh.pdf)
+[2024-08-30] [动手学习深度学习 (Dive into Deep Learning/Chinese Version)](https://zh-v2.d2l.ai/d2l-zh.pdf)
+
+[2023-10-01] [Engineering Psychology&Human Performance, 4th Edition](https://www.taylorfrancis.com/books/mono/10.4324/9781003177616/engineering-psychology-human-performance-christopher-wickens-justin-hollands-simon-banbury-william-helton)
+
+[2022-11-12] [Designing and Reporting Experiments in Psychology](https://books.google.com.sg/books?id=DthEBgAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
 
 [2022-07-20] [HTC-VIVE操作手册 (HTC VIVE User Manual)](https://drive.google.com/file/d/1DpwvJlzLS8EVWLci5qeWcwg_-hDVa0tJ/view?usp=sharing)
 
