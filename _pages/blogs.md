@@ -20,7 +20,7 @@ p {
 
 [2024-03-18] [Tobii Pro SDK 开发教程 (Tobii Pro SDK Development Tutorial)](https://docs.google.com/presentation/d/1Wr5w-5GRo-_frGUTH2YHprniDYChZOYp/edit?usp=sharing&ouid=100297279513463186179&rtpof=true&sd=true)
 
-<!-- [2024-03-01] [Research of Electronic Flight Instrument System(EFIS))](../files/2024-03-01.pdf) -->
+[2024-03-01] [Research of Electronic Flight Instrument System(EFIS))](../files/2024-03-01.pdf)
 
 ## 2023 Year
 [2023-10-28] [贝叶斯机器学习汇报 (Bayesian Machine Learning Report)](../files/2023-10-28.pdf)
@@ -59,6 +59,8 @@ p {
 
 ## Book Share
 [2024-08-30] [动手学习深度学习 (Dive into Deep Learning/Chinese Version)](https://zh-v2.d2l.ai/d2l-zh.pdf)
+
+[2024-02-15] [Intelligent Adaptive Systems: An Interaction-Centered Design Perspective](https://www.taylorfrancis.com/books/mono/10.1201/b17742/intelligent-adaptive-systems-simon-banbury-catherine-burns-ming-hou)
 
 [2023-10-01] [Engineering Psychology&Human Performance, 4th Edition](https://www.taylorfrancis.com/books/mono/10.4324/9781003177616/engineering-psychology-human-performance-christopher-wickens-justin-hollands-simon-banbury-william-helton)
 
