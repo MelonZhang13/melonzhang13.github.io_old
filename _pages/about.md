@@ -49,10 +49,10 @@ li {
 Greetings! My name is Ruisheng Zhang (张瑞升), currently finishing my second year as a master in _Design_ from the [School of Mechanical Engineering](https://me.seu.edu.cn/jx_en/) at [Southeast University](https://www.seu.edu.cn/english/). **<font color=red>I am actively seeking a PhD position for 2025 Fall.</font>** Currently, I am a member of the Advanced Human-Computer Interaction Lab in the Industrial Design Department, under the supervision of [Associate Professor Xiaozhou Zhou](https://me.seu.edu.cn/zxz1/list.htm). From 2018 to 2022, I pursued my Bachelor's degree in _Mechanical Engineering_ from the School of Mechanical Engineering at Southeast University.
 
 ## Research Interests
-I am really passionate about developing advanced algorithms and methods to solve real-world problems and improve user experience in interactions between users and machines/computers.  My research interests span a wide range of areas, including but not limited to: 
-- **HCI research about pervasive computing and VR/AR**
+I am really passionate about developing advanced algorithms and methods to solve real-world problems and improve user experience and human abilities in interactions between users and machines/computers.  My research interests span a wide range of areas, including but not limited to: 
+- **Human-computer interaction research about pervasive computing and VR/AR**
+- **Human factors and ergonomics studies to enhance cognition and decision-making**
 - **Multi-modal intelligent user interfaces and intention-driven implicit interactions**
-- **Ergonomic studies utilizing various types of sensors**
 
 <!-- ## Research Interests
 I am really passionate about developing advanced algorithms and methods to solve real-world problems and improve user experience, because it is incredibly rewarding to utilize noval technology to improve and enhance humans' lives. My research interests focus on **HCI research about pervasive computing and VR/AR**, especially in:
