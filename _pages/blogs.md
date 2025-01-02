@@ -16,6 +16,8 @@ p {
 </style>
 
 ## 2024 Year
+[2024-12-29] [Knowledge Points Summary of the book _Applied Attention Theory_ ](https://melon-zhang.gitbook.io/ruisheng-zhang-docs/applied-attention-theory-knowledge-points)
+
 [2024-12-21] [The 2nd Human-Centric Smart Manufacturing Academic Conference (Oral Presentation)](/blogs/2024/12/Conference_Oral_Presentation/)
 
 [2024-11-19] [HoloLens Development Tutorial based on Unity3D and MRTK3](https://docs.google.com/document/d/1EufCl7JMoUnQRbj9GY8CopBDM12l-Dq-xQmAKHs6j1E/edit?usp=sharing)
