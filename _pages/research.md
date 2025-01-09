@@ -83,7 +83,7 @@ The main contents of this research are as follows:
 
 ## <font color=RoyalBlue>Research 2: Hierarchical Human Intention Recognition</font>
 
-> **Paper :** **Ruisheng Zhang**, Xuyi Qiu, Jichen Han, Hang Wu, Minglang Li and Xiaozhou Zhou*. A Hierarchical Intention Recognition Framework in Intelligent Human‒Computer Interactions for Complex Tasks: The Case of Helicopter and Drone Collaborative Wildfire Rescue Missions. _Engineering Applications of Artificial Intelligence_, Minor Revision. 
+> **Paper :** **Ruisheng Zhang**, Xuyi Qiu, Jichen Han, Hang Wu, Minglang Li and Xiaozhou Zhou*. A Hierarchical Intention Recognition Framework in Intelligent Human‒Computer Interactions for Complex Tasks: The Case of Helicopter and Drone Collaborative Wildfire Rescue Missions. _Engineering Applications of Artificial Intelligence_, Accept. 2025.
 
 The main contents of this research are as follows:
 
