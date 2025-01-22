@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 <style>
+a {
+  color: RoyalBlue; /* 将所有链接的颜色设置为 RoyalBlue */
+}
+</style>
+
+<style>
 h2 {
     margin-bottom: 0.5em; /* 调整为你认为合适的值 */
 }
@@ -83,7 +89,8 @@ The main contents of this research are as follows:
 
 ## <font color=RoyalBlue>Research 2: Hierarchical Human Intention Recognition</font>
 
-> **Paper :** **Ruisheng Zhang**, Xuyi Qiu, Jichen Han, Hang Wu, Minglang Li and Xiaozhou Zhou*. A Hierarchical Intention Recognition Framework in Intelligent Human‒Computer Interactions for Complex Tasks: The Case of Helicopter and Drone Collaborative Wildfire Rescue Missions. _Engineering Applications of Artificial Intelligence_, Accept. 2025.
+> **Paper :** **Ruisheng Zhang**, Xuyi Qiu, Jichen Han, Hang Wu, Minglang Li and Xiaozhou Zhou*. (2025). Hierarchical Intention Recognition Framework in Intelligent Human‒Computer Interactions for Helicopter and Drone Collaborative Wildfire Rescue Missions. _Engineering Applications of Artificial Intelligence_. 
+> <a href="https://doi.org/10.1016/j.engappai.2025.110037"><font color="RoyalBlue">[HTML]</font></a> <a href="https://www.sciencedirect.com/science/article/pii/S0952197625000375/pdfft?md5=26ac246f56a33412c654b7f4946aea64&pid=1-s2.0-S0952197625000375-main.pdf"><font color="RoyalBlue">[PDF]</font></a>
 
 The main contents of this research are as follows:
 

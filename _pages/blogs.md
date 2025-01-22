@@ -15,6 +15,9 @@ p {
 }
 </style>
 
+<!-- ## 2025 Year
+[2025-01-10] [Several Theories on the Influencing Factors of VR Motion Sickness](/blogs/2025/01/VR Motion Sickness/) -->
+
 ## 2024 Year
 [2024-12-29] [Knowledge Points Summary of the book _Applied Attention Theory_ ](https://melon-zhang.gitbook.io/ruisheng-zhang-docs/applied-attention-theory-knowledge-points)
 
